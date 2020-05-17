@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "question": "Spraying chlorine or alcohol on the skin kills viruses in the body",
+      "answer": "myth",
+      "explanation": "Applying alcohol or chlorine to the body can cause harm, especially if it enters the eyes or mouth. Although people can use these chemicals to disinfect surfaces, they should not use them on the skin.These products cannot kill viruses within the body."
+    },
+    {
+      "question": "Hand dryers kill coronavirus.",
+      "answer": "myth",
+      "explanation": "Hand dryers do not kill coronavirus. The best way to protect oneself and others from the virus is to wash the hands with soap and water or an alcohol-based hand rub."
+    },
+    {
+      "question": "Only older adults and young people are at risk",
+      "answer": "myth",
+      "explanation": "SARS-CoV-2, like other coronaviruses, can infect people of any age. However, older adults and individuals with preexisting health conditions, such as diabetes or asthma, are more likely to become severely ill."
+    },
+    {
+      "question": "COVID-19 is just like the flu",
+      "answer": "myth",
+      "explanation": "SARS-CoV-2 causes an illness that does have flu-like symptoms, such as aches, a fever, and a cough. Similarly, both COVID-19 and the flu can be mild, severe, or, in rare cases, fatal. Both can also lead to pneumonia. However, the overall profile of COVID-19 is more serious. Estimates vary, but its mortality rate seems to be between about 1% and 3%. Although scientists are still working out the exact mortality rate, it is likely to be many times higher than that of seasonal flu."
+    },
+    {
+      "question": "Face masks always protect against coronavirus",
+      "answer": "myth",
+      "explanation": "Healthcare workers use professional face masks, which fit tightly around the face, to protect themselves from infection. Disposable and cloth masks can protect against droplets, but neither can protect against aerosolized particles."
+    },
+    {
+      "question": "Consuming high-strength ethyl alcohol (ethanol), particularly if it has been adulterated with methanol, can result in severe health consequences, including death.",
+      "answer": "truth",
+      "explanation": "n response to a series of myths surrounding alcohol and COVID-19, the WHO released a statement. In it, they explain that although alcohol can disinfect the skin, it does not work the same way inside the body. They explain that “consuming any alcohol poses health risks, but consuming high-strength ethyl alcohol (ethanol), particularly if it has been adulterated with methanol, can result in severe health consequences, including death.”. In a fact sheet on the subject, they write that, “Alcohol use, especially heavy use, weakens the immune system and thus reduces the ability to cope with infectious diseases.”. Because alcohol is associated with a number of diseases, it may make people more vulnerable to COVID-19."
+    },
+    {
+      "question": "You can protect yourself by gargling bleach",
+      "answer": "myth",
+      "explanation": "People should never put bleach in their mouths. There are no circumstances in which gargling bleach might benefit a person’s health. Bleach is corrosive and can cause serious damage."
+    }
+  ]
+}
