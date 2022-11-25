@@ -48,10 +48,10 @@
       "name": "Carbonara",
       "description": "Carbonara",
       "ingredients": [
-        "name": "Queso",
-        "name": "Jamón",
-        "name": "Huevo",
-        "name": "Champiñones"
+        {"name": "Queso"},
+        {"name": "Jamón"},
+        {"name": "Huevo"},
+        {"name": "Champiñones"}
       ],
       "price": 12.99
     },
@@ -59,10 +59,10 @@
       "name": "Diabola",
       "description": "Diabola",
       "ingredients": [
-        "name": "Queso",
-        "name": "Tomate",
-        "name": "Peperoni",
-        "name": "Cebolla"
+        {"name": "Queso"},
+        {"name": "Tomate"},
+        {"name": "Peperoni"},
+        {"name": "Cebolla"}
       ],
       "price": 11.99
     }
