@@ -94,7 +94,8 @@
 					"name": "Cebolla"
 				}
 			],
-			"price": 10.99
+			"price": 10.99,
+			"imageUrl": "https://www.transparentpng.com/thumb/pizza/5dKSm4-pizza-with-tomato-sauce-picture-large-toppings-large.png"
 		},
 		{
 			"name": "4 quesos",
