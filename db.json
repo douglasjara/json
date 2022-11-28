@@ -77,6 +77,42 @@
 				}
 			],
 			"price": 11.99
+		},
+		{
+			"name": "Peperonata",
+			"description": "Peperonata",
+			"ingredients": [{
+					"name": "Peperoni"
+				},
+				{
+					"name": "Tomate"
+				},
+				{
+					"name": "Salchicha"
+				},
+				{
+					"name": "Cebolla"
+				}
+			],
+			"price": 10.99
+		},
+		{
+			"name": "4 quesos",
+			"description": "4 quesos",
+			"ingredients": [{
+					"name": "Queso Mozzarella"
+				},
+				{
+					"name": "Queso Azul"
+				},
+				{
+					"name": "Queso Chedar"
+				},
+				{
+					"name": "Queso Fresco"
+				}
+			],
+			"price": 13.99
 		}
 	]
 }
