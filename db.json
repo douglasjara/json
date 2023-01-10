@@ -58,7 +58,8 @@
 					"name": "Champiñones"
 				}
 			],
-			"price": 12.99
+			"price": 12.99,
+			"imageUrl": "https://img.cuisineaz.com/400x320/2017-03-13/i121794-pizza-carbonara.jpeg"
 		},
 		{
 			"name": "Diabola",
@@ -76,7 +77,8 @@
 					"name": "Cebolla"
 				}
 			],
-			"price": 11.99
+			"price": 11.99,
+			"imageUrl": "https://4.bp.blogspot.com/-cGXn8ssktGc/Vzkz1Bx_ABI/AAAAAAAABAo/cFHoa_E69dUtFiyvobQeVg3hFjAfuocTgCLcB/s400/e3a47605e0568324d58c10a4371121af.jpg"
 		},
 		{
 			"name": "Peperonata",
@@ -113,7 +115,8 @@
 					"name": "Queso Fresco"
 				}
 			],
-			"price": 13.99
+			"price": 13.99,
+			"imageUrl": "https://wikiclipart.com/wp-content/uploads/2017/04/Cheese-pizza-pizza-images-transparent-free-download-clipart.png"
 		}
 	]
 }
